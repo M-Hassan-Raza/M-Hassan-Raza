@@ -1,6 +1,6 @@
 - ### Hi there 👋
 
-  <!--
+  
 
   - 🔭 I’m currently working on 
   - 🌱 I’m currently learning OOP with Operator Overloading and Dynamic Memory Management
@@ -10,5 +10,5 @@
   - 📫 How to reach me: [LinkedIn]([Muhammad Hassan Raza | LinkedIn](https://www.linkedin.com/in/hassanraza22/)), [Twitter]([Rai Hassan Raza (@RaiHassanRaza22) / Twitter](https://twitter.com/RaiHassanRaza22)), 
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: I listen to an unhealthy amount of the [Metal Music](https://open.spotify.com/playlist/5yI3pbAJjKWaHxaU9PENwX) (Heavy/Thrash/Melodic/Industrial/Symphonic/Death/Djent etc.)
-    -->
+    
 
