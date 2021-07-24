@@ -40,9 +40,6 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-
 ## Github Stats
 
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza&count_private=true&theme=synthwave)
