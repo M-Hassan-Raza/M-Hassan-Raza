@@ -20,7 +20,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=Java&logoColor=61DBFB)](#) 
-[![C++ Badge](https://img.shields.io/badge/-C++-F0DB4F?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=F0DB4F)](#) 
+[![C++ Badge](https://img.shields.io/badge/-C++-F0DB4F?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=F0DB4F)](#)                                               [![Javascript Badge](https://img.shields.io/badge/-javascript-3C873A?style=for-the-badge&labelColor=black&logo=javascript&logoColor=3C873A)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) 
 [![Julia Badge](https://img.shields.io/badge/-julia-3C873A?style=for-the-badge&labelColor=black&logo=julia&logoColor=3C873A)](#)
 
