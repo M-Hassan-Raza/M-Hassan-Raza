@@ -10,7 +10,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 <br/>
 
-## <strong>Top Technologies</strong>
+## 💻 <strong>Top Technologies</strong>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
