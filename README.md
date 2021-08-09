@@ -1,4 +1,4 @@
-## <strong>Hi I'm Hassan </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# <strong>Hi </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
 
@@ -10,7 +10,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 <br/>
 
-## 💻 <strong>Top Technologies</strong>
+## 💻 <strong>Tools and Languages</strong>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -26,7 +26,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 <br />
 
-## :mailbox: <strong> Reach me! </strong>
+## :mailbox: <strong> Reach me </strong>
 
 [![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@raihassanraza)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/RaiHassanRaza22)&nbsp;&nbsp;
