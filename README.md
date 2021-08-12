@@ -19,11 +19,11 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 [![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)](#)&nbsp;&nbsp;
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](#)&nbsp;&nbsp;
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=FFA518)](#)&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)](#)&nbsp;&nbsp;
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 
 <br />
 
