@@ -5,7 +5,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 - 🔭 I’m currently pursuing my Software Engineering degree.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Efficient and Cross-Platform GUI  implementations for Python and Java.
-- 💬 Ask me about C++, OOP, Software Engineering Models, Java, JavaScript and any other programming related issues. 
+- 💬 Ask me about C++, Software Engineering Models, Java, JavaScript and any other programming related issues. 
 - ⚡ Fun fact: I play Sports, Video Games and listen to a lot of Music.
 
 <br/>
