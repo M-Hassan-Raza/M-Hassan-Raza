@@ -8,7 +8,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 - 💬 Ask me about C++, Software Engineering Models, Java, JavaScript and any other programming related issues. 
 - ⚡ Fun fact: I play Sports, Video Games and listen to a lot of Music.
 
-<br/>
+<br>
 
 ## 💻 <strong>Tools and Languages</strong>
 
@@ -25,7 +25,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 
-<br />
+<br>
 
 ## :mailbox: <strong> Reach me </strong>
 
@@ -36,7 +36,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![Website Badge](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)](https://hassansjourney.wordpress.com/)
 
 
-<br/>
+<br>
 
 ## <strong>Profile Visits </strong>
 
@@ -47,7 +47,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
   <strong>More stuff about me</strong>
 </summary>
 
-<br/>
+<br>
 
 ## Github Stats
 
