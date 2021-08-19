@@ -18,7 +18,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
-[![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)](#)&nbsp;&nbsp;
+[![Gitlab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
