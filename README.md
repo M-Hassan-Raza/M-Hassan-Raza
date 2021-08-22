@@ -22,7 +22,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)](#)&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f89820)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 
 <br>
