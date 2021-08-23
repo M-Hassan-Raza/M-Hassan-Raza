@@ -38,7 +38,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 <br>
 
-## <strong>Profile Visits </strong> <h4> Badge didn't load? That's a feature not a bug. </h4>
+## <strong>Profile Visits </strong> <h6> Badge below didn't load? That's a feature not a bug. </h6>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=M-Hassan-Raza.M-Hassan-Raza) 
 
