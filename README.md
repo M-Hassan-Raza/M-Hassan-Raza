@@ -24,7 +24,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f89820)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
-[![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)](#)&nbsp;&nbsp;
+[![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)](#)&nbsp;&nbsp;
 
 <br>
 
