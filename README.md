@@ -56,6 +56,6 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza&count_private=true&layout=compact&theme=cobalt)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
