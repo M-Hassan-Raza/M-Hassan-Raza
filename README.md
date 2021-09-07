@@ -6,7 +6,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Efficient and Cross-Platform GUI  implementations for Python and Java.
 - 💬 Ask me about C++, Software Engineering Models, Java, JavaScript and any other programming related issues. 
-- ⚡ Fun fact: I play Sports, Video Games and listen to lots of Music.
+- ⚡ Fun fact: I play Sports, Video Games and listen to lots of Music. Also, I'm a huge Astronomy fan so I tend to read up on a lot of stuff regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best, fight me. 
 
 <br>
 
