@@ -7,13 +7,14 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 - 🤔 I’m looking for help with Efficient and Cross-Platform GUI  implementations for Python and Java.
 - 💬 Ask me about C++, Software Engineering Models, Java, JavaScript and any other programming related issues. 
 - :clock130: As of right now, I'm using the semester break to get comfortable with python and build some small projects.
-- ⚡ Fun fact: I play Sports, Video Games and listen to lots of Music. Also, I'm an Astronomy🌌 <a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg">enjoyer</a> so I tend to read up on a lot of stuff regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
+- ⚡ Fun fact: I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/playlist/5yI3pbAJjKWaHxaU9PENwX">Music</a>. Also, I'm an Astronomy🌌 so I tend to read up on a lot of stuff regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
 
 <br>
 
 ## 💻 <strong>Tools and Languages</strong>
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links takes you to repositories 
+<a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg"></a>-->
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
