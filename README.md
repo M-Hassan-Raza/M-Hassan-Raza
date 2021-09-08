@@ -7,7 +7,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 - 🤔 I’m looking for help with Efficient and Cross-Platform GUI  implementations for Python and Java.
 - 💬 Ask me about C++, Software Engineering Models, Java, JavaScript and any other programming related issues. 
 - :clock130: As of right now, I'm using the semester break to get comfortable with python and build some small projects.
-- ⚡ Fun fact: I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/playlist/5yI3pbAJjKWaHxaU9PENwX">Music</a>. Also, I'm an Astronomy🌌 so I tend to read up on a lot of stuff regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
+- ⚡ Fun fact: I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/playlist/5yI3pbAJjKWaHxaU9PENwX">Music</a>. Also, I'm an Astronomy🌌 enjoyer so I tend to read up on a lot of stuff regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
 
 <br>
 
