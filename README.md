@@ -52,7 +52,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 <!--
 <details>
 <summary>
-  <strong>More stuff about me</strong>
+  <strong>More stuf about me</strong>
 </summary>
 -->
 
