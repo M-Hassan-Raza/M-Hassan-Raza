@@ -1,4 +1,4 @@
-# <strong>Hi </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# <strong>Hi </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
 I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
 
