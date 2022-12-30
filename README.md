@@ -1,4 +1,4 @@
-# <strong>Hi </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
+# <span style="color: #3da47a"><strong>Hi</strong></span><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
 I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
 
@@ -12,9 +12,6 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 <br>
 
 ## 💻 <strong>Tools and Languages</strong>
-
-<!-- TODO: Make technologies links takes you to repositories 
-<a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg"></a>-->
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
@@ -48,19 +45,11 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=M-Hassan-Raza.M-Hassan-Raza) 
 <h6> Badge above didn't load? That's a feature not a bug. </h6>
-
-<!--
-<details>
-<summary>
-  <strong>More stuff about me</strong>
-</summary>
--->
-
 <br>
 
 ## GitHub Statistics
 
-![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza&show_icons=true,contribs&count_private=true&layout=compact&theme=cobalt)
+![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza&show_icons=true,contribs&count_private=true&layout=compact&theme=vue-dark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
