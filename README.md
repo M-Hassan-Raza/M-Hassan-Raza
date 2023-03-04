@@ -4,7 +4,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 - 🔭 I’m currently pursuing my Software Engineering degree.
 - :computer: Most used line of code `git add .`
-- 🤔 I’m looking for help with Efficient and Cross-Platform GUI implementations for Java.
+- 🤔 I’m looking for help with Full Stack Developmetn using MERN stack.
 - 💬 Ask me about C++, Software Engineering Models, Java, JavaScript, Python and any other programming related issues. 
 - :clock130: As of right now, I'm trying to complete a few side projects along with completing my semester.
 - ⚡ I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/user/raihassanraza">Music</a>. Also, I'm an Astronomy🌌 enjoyer so I tend to read up on a lot of stuff &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
