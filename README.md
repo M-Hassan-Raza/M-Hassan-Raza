@@ -33,7 +33,7 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/hassanraza22/)&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)]([https://medium.com/@raihassanraza](https://medium.com/@raihassanraza10))&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@raihassanraza10)&nbsp;&nbsp;
 [![Mail Badge](https://img.shields.io/badge/-ProtonMail-05122A?style=flat&logo=protonmail)](mailto:RaiHassanRaza@protonmail.com)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/RaiHassanRaza22)&nbsp;&nbsp;
 [![Website Badge](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)](https://hassansjourney.wordpress.com/)
