@@ -1,13 +1,12 @@
 # <span style="color: #3da47a"><strong>Hi</strong></span><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
-I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
+I'm Muhammad Hassan Raza, a Software Engineering Senior at FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
 
 - 🔭 I’m currently pursuing my Software Engineering degree.
 - :computer: Most used line of code `git ac` [alias for `git add .` & `git commit -m` ]
-- 🤔 I’m looking for help with Efficient deployment of Django on GCP (Cloud functions).
-- 💬 Ask me about BigQuery, GCP Cloud Functions, Flask, C++, Software Engineering Models, Java, JavaScript, Python and any other programming related issues.
+- 💬 Ask me about BigQuery, GCP Cloud Functions, Flask, C++, Software Engineering Models, Java, JavaScript, Python and any other programming-related issues.
 - :clock130: As of right now, I'm trying to complete a few side projects along with completing my semester.
-- ⚡ I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/user/raihassanraza">Music</a>. Also, I'm an Astronomy🌌 enjoyer so I tend to read up on a lot of stuff &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
+- ⚡ I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/user/raihassanraza">Music</a>. Also, I'm an Astronomy🌌 enjoyer so I tend to read up on a lot of stuff &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
 
 <br>
 
@@ -55,5 +54,5 @@ I'm Muhammad Hassan Raza, a Software Engineering student of FAST NUCES. I spend 
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza&show_icons=true,contribs&count_private=true&layout=compact&theme=vue-dark)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=15&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
