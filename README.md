@@ -1,6 +1,6 @@
 # <span style="color: #3da47a"><strong>Hi</strong></span><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
-I'm Muhammad Hassan Raza, a Software Engineering Senior at FAST NUCES. I spend most of my time coding interesting projects and learning new technologies.
+I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well as a faculty member. I spend most of my time coding interesting projects and learning new technologies.
 
 - 🔭 I’m currently pursuing my Software Engineering degree.
 - :computer: Most used line of code `git ac` [alias for `git add .` & `git commit -m` ]
