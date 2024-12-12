@@ -2,7 +2,7 @@
 
 I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well as a faculty member. I spend most of my time coding interesting projects and learning new technologies.
 
-- 🔭 I’m currently pursuing my Software Engineering degree.
+- 🔭 I’m currently pursuing my degree in Masters in Comptuer Science.
 - :computer: Most used line of code `git ac` [alias for `git add .` & `git commit -m` ]
 - 💬 Ask me about BigQuery, GCP Cloud Functions, Flask, C++, Software Engineering Models, Java, JavaScript, Python and any other programming-related issues.
 - ⚡ I play Sports, <a href="https://steamcommunity.com/id/infinityexistence/">Video Games</a> and listen to lots of <a href="https://open.spotify.com/user/raihassanraza">Music</a>. Also, I'm an Astronomy🌌 enjoyer so I tend to read up on a lot of stuff &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; regarding space. <a href="https://earthsky.org/space/what-is-a-magnetar/">Magnetars</a> are the best :)
