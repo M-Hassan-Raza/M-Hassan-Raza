@@ -9,6 +9,8 @@ I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well 
 
 <br>
 
+<!---
+
 ## 💻 <strong>Tools and Languages</strong>
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
@@ -24,7 +26,7 @@ I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
 
-
+-->
 
 <br>
 
