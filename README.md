@@ -26,7 +26,7 @@ I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
 
--->
+
 
 <br>
 
@@ -42,6 +42,7 @@ I'm Muhammad Hassan Raza, an MS Computer Science student at FAST NUCES, as well 
 
 
 <br>
+-->
 
 
 ## GitHub Statistics
