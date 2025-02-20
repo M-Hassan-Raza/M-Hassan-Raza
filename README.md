@@ -12,7 +12,7 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 
 ## Current Projects
 
-- **POSium** – A Vue + Django + PostgreSQL POS system for retail businesses
+- **ChronoPOS** – A Vue + Django + PostgreSQL POS system for retail businesses
 - **E-Commerce Store** – A hardware and industrial equipment store with an optimized online shopping experience
 - **Hugo Portfolio Website** – Showcasing my skills, projects, and blog posts on [mhassan.dev](https://mhassan.dev/)
 - **Custom Logging Utility** – Implementing structured logging for better tracking and analytics in Django APIs
