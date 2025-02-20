@@ -27,7 +27,6 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 
 ## Fun Facts
 
-- Preparing for the **CSS Exam** while managing my projects and business
 - Gamer & music enthusiast ([Steam](https://steamcommunity.com/id/infinityexistence/) | [Spotify](https://open.spotify.com/user/raihassanraza))
 - Astronomy lover – particularly fascinated by [Magnetars](https://earthsky.org/space/what-is-a-magnetar/)
 
