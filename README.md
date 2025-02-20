@@ -32,7 +32,7 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 
 ## Resume
 
-[View My Resume]([#](https://mhassan.dev/assets/muhammad-hassan-raza-resume.pdf))
+[View My Resume](https://mhassan.dev/assets/muhammad-hassan-raza-resume.pdf)
 
 ## GitHub Stats
 
