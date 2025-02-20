@@ -30,6 +30,10 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 - Gamer & music enthusiast ([Steam](https://steamcommunity.com/id/infinityexistence/) | [Spotify](https://open.spotify.com/user/raihassanraza))
 - Astronomy lover – particularly fascinated by [Magnetars](https://earthsky.org/space/what-is-a-magnetar/)
 
+## Resume
+
+[View My Resume]([#](https://mhassan.dev/assets/muhammad-hassan-raza-resume.pdf))
+
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=15&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
