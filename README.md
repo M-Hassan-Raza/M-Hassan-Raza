@@ -34,9 +34,5 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 
 [View My Resume](https://mhassan.dev/assets/muhammad-hassan-raza-resume.pdf)
 
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza&langs_count=15&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 Feel free to connect, collaborate, or discuss anything tech-related!
