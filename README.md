@@ -12,7 +12,7 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 
 ## Current Projects
 
-- **Commit Software Solutions** - My own software house specializing in automations, cloud, web development, graphics design, POS software and Androdi Development
+- **Commit Software Solutions** - My own software house specializing in Business Automations automations, Cloud, Web Development, Graphics Design, POS, and Android Development
 - **Polaris** – A Vue + Django + PostgreSQL POS system for retail businesses
 - **E-Commerce Store** – A hardware and industrial equipment store with an optimized online shopping experience
 - **Hugo Portfolio Website** – Showcasing my skills, projects, and blog posts on [mhassan.dev](https://mhassan.dev/)
