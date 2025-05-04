@@ -18,6 +18,7 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 - **Hugo Portfolio Website** – Showcasing my skills, projects, and blog posts on [mhassan.dev](https://mhassan.dev/)
 - **Custom Logging Utility** – Implementing structured logging for better tracking and analytics in Django APIs
 - **Supplier Order Automation** – Streamlining inventory management with Vue-generated PDF orders
+- **AI Agents** - Building AI agents to solve real industry problems
 
 ## Tech Stack & Interests
 
@@ -34,6 +35,7 @@ I'm a Software Engineer, MS Computer Science student at FAST NUCES, and a facult
 ## Resume
 
 [View My Resume](https://mhassan.dev/assets/muhammad-hassan-raza-resume.pdf)
+
 
 ---
 Feel free to connect, collaborate, or discuss anything tech-related!
