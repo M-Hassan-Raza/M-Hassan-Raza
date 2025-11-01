@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hassan Raza
 
-Chief Product Officer @ [Entropy & Co.](https://entropyandco.com) | MS CS @ FAST NUCES (4.0 GPA) | Founder @ Commit Software Solutions
+Chief Product Officer @ [Entropy & Co.](https://entropyand.co) | MS CS @ FAST NUCES (4.0 GPA) | Founder @ Commit Software Solutions
 
 ## What I Build
 
@@ -17,7 +17,7 @@ Full-stack systems using **Vue.js/Next.js + Django/FastAPI + PostgreSQL** for pr
 
 - **[Anatomia](https://github.com/M-Hassan-Raza)** – HIPAA-compliant healthcare workflow platform using FastAPI, React & AWS HealthLake (FHIR R4). Real-time call processing with Transcribe Medical, AI clinical decision support for 2,500+ concurrent users, 85% doctor workload reduction
 - **[Bonnet.ai](https://bonnet.ai)** – AI-powered creative agency SaaS. Multi-persona AI system (Research/Strategist/Creative), Stripe subscriptions processing PKR 1.2M+ MRR, reduced project timelines from 3 days to 15 minutes
-- **Polaris ERP** – Full-stack POS system (Vue.js + Django) processing PKR 2.5M+ monthly transactions with 99.95% uptime, 82% inventory accuracy improvement, 50+ automated report types
+- **[Polaris ERP](https://polariserp.app)** – Full-stack POS system (Vue.js + Django) processing PKR 2.5M+ monthly transactions with 99.95% uptime, 82% inventory accuracy improvement, 50+ automated report types
 - **[Go Load Balancer](https://github.com/M-Hassan-Raza/go-load-balancer-dash)** – High-performance load balancer handling 10K+ concurrent connections, weighted round-robin & least-connections algorithms, 99.9% uptime with automated failover
 
 ## Current Work
