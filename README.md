@@ -33,7 +33,7 @@ Full-stack systems using **Vue.js/Next.js + Django/FastAPI + PostgreSQL** for pr
 | **Backend** | Django, FastAPI, Flask, DRF, WebSockets, Celery |
 | **Frontend** | Vue.js, Next.js, React, Tailwind CSS, Vite |
 | **Cloud/DevOps** | AWS (EC2, HealthLake, Lambda, S3), GCP, Azure, Docker, Nginx, CI/CD |
-| **AI/ML** | LangChain, LangGraph, OpenAI, Claude, RAG, Vector DBs, NLP |
+| **AI/ML** | LangChain, LangGraph, OpenAI, Claude AI Agent SDK, SageMaker | RAG, Vector DBs, NLP |
 | **Databases** | PostgreSQL, Redis, BigQuery, Supabase |
 | **Healthcare** | FHIR R4, HL7, HIPAA Compliance, AWS HealthLake |
 
