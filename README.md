@@ -1,10 +1,10 @@
 # Hi, I'm Muhammad Hassan Raza
 
-Chief Product Officer @ [Entropy & Co.](https://entropyand.co) | MS CS @ FAST NUCES (4.0 GPA) | Founder @ Commit Software Solutions
+Chief Information Officer @ [Entropy & Co.](https://entropyand.co) | MS CS @ FAST NUCES (4.0 GPA) | Founder @ Commit Software Solutions
 
 ## What I Build
 
-Full-stack systems using **Vue.js/Next.js + Django/FastAPI + PostgreSQL** for products serving **25K+ MAU** with **99.9% uptime**. Specialized in **AI/ML** (LangChain, LangGraph, RAG), **healthcare interoperability** (FHIR R4, HL7), and **performance optimization** (query tuning: 750ms→230ms, 60% DB load reduction). Built workflow automation reducing manual processing by **80%** for 47 enterprise clients.
+Full-stack systems using **Vue.js/Next.js + Django/FastAPI + PostgreSQL** for products serving **25K+ MAU** with **99.998% uptime**. Specialized in **AI/ML** (LangChain, LangGraph, RAG), **healthcare interoperability** (FHIR R4, HL7), and **performance optimization** (query tuning: 750ms→230ms, 60% DB load reduction). Built workflow automation reducing manual processing by **80%** for 47 enterprise clients.
 
 ## Experience Highlights
 
