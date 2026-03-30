@@ -8,7 +8,7 @@ Full-stack systems using **Vue.js/Next.js + Django/FastAPI + PostgreSQL** for pr
 
 ## Experience Highlights
 
-- **CPO @ Entropy & Co.** – Leading product strategy & technical operations, directing cross-functional team of 8 engineers/designers across AWS infrastructure
+- **CIO @ Entropy & Co.** – Leading product strategy & technical operations, directing cross-functional team of 8 engineers/designers across AWS infrastructure
 - **Senior Software Engineer** – Developed 15+ high-traffic applications (50K+ DAU), optimized PostgreSQL queries by 69%, implemented Redis caching (40% perf gain)
 - **AI Engineer @ WebNoodle** – Built RAG pipelines processing 25K+ documents (92% retrieval accuracy), reduced API costs 45% via rate limiting
 - **VP Operations @ SOFTEC** – Managed Pakistan's largest tech competition (6,300+ attendees, 10 departments, zero operational incidents)
